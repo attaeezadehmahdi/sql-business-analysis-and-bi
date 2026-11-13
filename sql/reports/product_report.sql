@@ -17,8 +17,6 @@ Key Transformations:
     - Calculate product lifespan and performance segments.
     - Calculate recency, average sales per order, and monthly sales.
 
-Output:
-    gold.product_report
 ===============================================================================
 */
 
