@@ -134,4 +134,28 @@ Provides a high-level view of customer and sales performance, including key KPIs
 
 #### 2. Lost & At Risk Customers
 
-Examines lost and at-risk customers,
+Examines lost and at-risk customers, highlighting their contribution to sales and identifying customer segments and countries requiring attention.
+
+![Lost and At Risk Customers](reports/screenshots/02_customer_risks.png)
+
+#### 3. Customer Features
+
+Analyzes VIP customers, their contribution to sales, purchasing recency, and potential opportunities to develop high-value customers.
+
+![Customer Features](reports/screenshots/03_customer_features.png)
+
+#### 4. Country Detail
+
+Provides a detailed country-level view through drill-through functionality, allowing customer performance and purchasing behavior to be examined within a selected country.
+
+![Country Detail](reports/screenshots/04_country_detail.png)
+
+## Tools and Technologies
+
+- **Microsoft SQL Server** — Data exploration, analysis, and reporting views.
+- **T-SQL** — SQL querying and analytical transformations.
+- **Power BI** — Data visualization and interactive dashboard development.
+
+## Related Project
+
+[SQL Data Warehouse Project](https://github.com/attaeezadehmahdi/sql-data-warehouse-project) — The upstream project that develops the Gold layer used in this analysis.
